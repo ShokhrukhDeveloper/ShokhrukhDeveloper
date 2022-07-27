@@ -6,12 +6,14 @@ namespace student.Controllers;
 [ApiController]
 [Route("api/[controller]")]
 public class StudentsController:ControllerBase
-{   [HttpGet]
+{   
+    [HttpGet]
     public IActionResult GetStudents(){
         var students=StudentDTO.Students;
         if(!students.Any())return NoContent();
         return Ok(students);
     }
+
     [HttpGet]
     [Route("{Id}")]
     public IActionResult GetStudentsById(Guid Id)
@@ -44,6 +46,7 @@ public class StudentsController:ControllerBase
         StudentDTO.Students.Remove(student);
         return Ok("Successfully deleted");
     }
+    
     [HttpPut]
     public IActionResult UpdateStudent(StudentDTO student)
     {
