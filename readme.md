@@ -10,7 +10,7 @@ I can offer my service whin is possible to help you🦾🦾
 - ✈️Flutter framework
 - ✈️EF Core
 
-Photo: [](/photo_2021-09-08_20-05-25.jpg)
+![alt text for screen readers](/photo_2021-09-08_20-05-25.jpg "Text to show on mouseover")
 
 Follow me on Social media sites
 
