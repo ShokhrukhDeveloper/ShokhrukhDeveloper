@@ -17,8 +17,9 @@ I can offer my service whin is possible to help you🦾🦾
     * Akam
     * Kids-cam
     * Uy-sot
-- my target
+
 ![](/photo_2021-09-08_20-05-25.jpg)
+
 Follow me on Social media sites
 [LinkedIn](https://www.linkedin.com/in/yarashov-shokhrukh-898010197/)|
 [Telegram](https://t.me/uz_best)|
