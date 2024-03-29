@@ -17,11 +17,9 @@ I can offer my service whin is possible to help you🦾🦾
     * Akam
     * Kids-cam
     * Uy-sot
+---------------------------------------------------------------------------
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=ShokhrukhDeveloper&show_icons=true&count_private=true)](https://github.com/ShokhrukhDeveloper)
-
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ShokhrukhDeveloper&show_icons=true&count_private=true&include_all_commits=true)]
-
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ShokhrukhDeveloper&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/ShokhrukhDeveloper)
+===========================================================================
 
 (https://github.com/ShokhrukhDeveloper)
 
